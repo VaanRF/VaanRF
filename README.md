@@ -1,8 +1,7 @@
 * 👋 Bem vindos!
-     Me chamo Vanderson Ribeiro, estudo Análise e Desenvolvimento de Sistemas na Anhanguera, participei de vários Bootcamps pela Dio
-     e atualmente sou bolsista no Curso de Desenvolvedor Javascript Fullstack pela T.Experts.
+     Me chamo Vanderson Ribeiro, formado em Análise e Desenvolvimento de Sistemas pela Anhanguera, participei de vários Bootcamps pela Dio
+     e fui bolsista no Curso de Desenvolvedor Javascript Fullstack pela T.Experts.
 
-* 👀 Atualmente estou procurando meu primeiro trabalho na área, Javascript, Front, Back, React, Angular ou Vue
-* 🌱 Estou focado em acompanhar o curso na qual ganhei uma bolsa de estudo da T.Experts, estamos reforçando Javascript, porém o curso
-     tem uma abordagem totalmente voltada para o mercado de trabalho.
+* 🌱 Atualmente atuo como professor de robótica e automação no Centro da Juventude Restinga em Porto Alegre e educador social específico no Serviço de Convivência Adolescentes pelo NCC Belém.
+
 * 📫 vanderson.ribeirof@gmail.com / (51) 98041-5390
